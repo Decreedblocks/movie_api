@@ -50,7 +50,7 @@ Utilizes FastAPI’s dependency injection for a modular and maintainable codebas
 
 ### Prerequisites
 
-Python 3
+Python 3.12.1
 PostgreSQL
 
 
