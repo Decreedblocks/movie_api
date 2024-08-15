@@ -50,7 +50,7 @@ Utilizes FastAPI’s dependency injection for a modular and maintainable codebas
 
 ### Prerequisites
 
-Python 3.12.1
+Python 3
 PostgreSQL
 
 
@@ -59,8 +59,8 @@ PostgreSQL
 1. **Clone the repository**:
 
    ```sh
-   git clone https://github.com/Ojieh94/henry.git
-   cd Capstone_Project
+   git clone https://github.com/Decreedblocks/movie_api.git
+   cd movie app
    ``` 
 
 2. **Install the dependencies**:
@@ -104,4 +104,4 @@ Feel free to contribute and make changes! Please create a pull request with a de
 
 ## Contact
 
-[henry.ojieh@gmail.com](mailto:henry.ojieh@gmail.com).
+[emekky54@gmail.com]
