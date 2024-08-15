@@ -6,7 +6,7 @@ from sqlalchemy.pool import StaticPool
 from movie_app.main import app
 from movie_app.database import Base, get_db
 
-SQLALCHEMY_DATABASE_URL = "sqlite://"
+SQLALCHEMY_DATABASE_URL = "postgresql://"
 
 engine = create_engine(
     SQLALCHEMY_DATABASE_URL,
